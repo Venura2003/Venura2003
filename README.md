@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **personalvenura@gmail.com**
+
 
 - ⚡ Fun fact **Call me as Vu**
 

@@ -9,16 +9,26 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Python & Backend Development**
-- 💬 Ask me about **Java, OOP, and Programming Basics**
-- 🚀 Interested in **Mobile App Development & Web Technologies**
+- 🌱 Currently learning **Python, Flutter & Backend Development**
+- 💬 Ask me about **Java, OOP, and Software Development Concepts**
+- 🚀 Interested in **Mobile App Development, Web Applications & APIs**
+- 💼 Currently doing an **Internship at Chilaw Innovation**
 - ⚡ Fun fact: **You can call me Vu 😄**
+
+---
+
+### 🧠 Tech Focus
+
+- 📱 Mobile Development with **Flutter & Android**
+- 🌐 Web Development with **.NET & JavaScript**
+- 🗄️ Database Management with **MySQL & MongoDB**
+- ⚙️ Backend Development with **Node.js & PHP**
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <!-- Add your social links here -->
+  <!-- Add your LinkedIn / Instagram / Portfolio -->
 </p>
 
 ---
@@ -28,6 +38,12 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>

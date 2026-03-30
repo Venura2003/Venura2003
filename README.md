@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Venura</h1>
-<h3 align="center">Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi 👋, I'm Venura (Vu)</h1>
+<h3 align="center">Software Developer | Flutter & .NET Enthusiast 🚀</h3>
+
+<p align="center">
+  💡 Building mobile & web applications with modern technologies
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venura2003&label=Profile%20views&color=0e75b6&style=flat" alt="venura2003" />
@@ -26,9 +30,36 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 🛒 **Supermarket Management System**
+  - Full-stack system with mobile + backend
+  - Built using **Flutter, .NET & REST APIs**
+
+- 🎓 **Student Management System**
+  - Web-based application
+  - Built with **JavaScript & Database Integration**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venura2003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venura2003&theme=tokyonight" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
+
 <p align="left">
-  <!-- Add your LinkedIn / Instagram / Portfolio -->
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" width="40" />
+  </a>
 </p>
 
 ---

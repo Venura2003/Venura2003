@@ -17,7 +17,7 @@
 - 💬 Ask me about **Java, OOP, and Software Development Concepts**
 - 🚀 Interested in **Mobile App Development, Web Applications & APIs**
 - 💼 Currently doing an **Internship at Ceylon Innovation**
-- ⚡ Fun fact: **You can call me Vu 😄**
+
 
 ---
 
